@@ -1,11 +1,11 @@
-# Mood Opus
+# Mood Board
 
-Mood Opus is a multimedia moodboard where you can upload audio and image files, or embeds Youtube and Bilibili,... links.
+A multimedia moodboard where you can upload audio and image files, or social-media embeds (Youtube, Instagram, X, Facebook, Pinterest), or Spotify embeds
 
-Mood Opus is a useful tool if you want:
+A useful tool if you want to:
 
-- Collect media links based on favorite topics from multiple social media platform link Youtube, Bili, ...
-- Create a media moodboard for your current mood and sharing with your friends.
+- Collect and organize media from multiple sources
+- Share a moodboard with your friends.
 
 ## Development
 
