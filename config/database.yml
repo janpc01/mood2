@@ -80,7 +80,6 @@ test:
 # for a full overview on how database connection configuration can be specified.
 #
 production:
-  <<: *default
-  database: mood_opus_production
-  username: mood_opus
-  password: <%= ENV["MOOD_OPUS_DATABASE_PASSWORD"] %>
+  primary: &primary_production
+    <<: *default
+    url: <%= ENV["DATABASE_URL"] %>
